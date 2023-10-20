@@ -28,7 +28,7 @@ body{
     margin-top: 15%;
 }
 
-@keyframes colorChange{
+@keyframes colorchange{
     0%{
         color: indigo;
     }
@@ -56,5 +56,4 @@ body{
 }
 .hex-colors h2{
     font-size: 1.5rem;   
-}
 }
